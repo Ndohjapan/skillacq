@@ -20864,7 +20864,7 @@ div[class*="tutor-course-col"] {
 
 .tutor-course-loop-price>.price .tutor-loop-cart-btn-wrap a::before {
 	content: "\e915";
-	font-family: "tutor" !important;
+	font-family: "Font Awesome 5 Free" !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -60770,8 +60770,8 @@ table#wp-calendar td#today a {
 
 .site-footer .widget ul.menu li:before {
 	color: #ffff01;
-	content: "\f133";
-	font-family: "Flaticon";
+	content: "\f105";
+	font-family: "Font Awesome 5 Free";
 	left: 0;
 	position: absolute;
 	top: 4px;
