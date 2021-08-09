@@ -10337,7 +10337,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-carousel-dot-1 .slick-dots li.slick-active button {
-	background: #ffff01
+	background: #ffc600
 }
 
 .edubin-carousel-dot-1 .slick-dots li button:before {
@@ -10381,7 +10381,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin_recent_post .edubin_recent_post_title a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin_recent_post .date {
@@ -10457,7 +10457,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-section-title span.edubin-title-sperator {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	display: inline-block;
 	height: 3px;
 	margin-bottom: 13px;
@@ -10467,7 +10467,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-section-title.title-style-three span.edubin-title-sperator:before {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	bottom: 0;
 	content: "";
 	display: block;
@@ -10558,7 +10558,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .section-advancetitle-txt {
-	color: #ffff01;
+	color: #ffc600;
 	font-size: 80px;
 	font-weight: 800;
 	line-height: 28px;
@@ -10594,7 +10594,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-carousel-activation .slick-dots li button {
-	border: 1px solid #ffff01;
+	border: 1px solid #ffc600;
 	width: 12px;
 	height: 12px;
 	padding: 0;
@@ -10604,7 +10604,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-carousel-activation .slick-dots li.slick-active button {
-	background-color: #ffff01
+	background-color: #ffc600
 }
 
 .edubin-icon-category-style-1 .slick-slide .edubin-icon-category .single-category {
@@ -10685,7 +10685,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-icon-category-style-1 button.slick-arrow:hover {
-	background: #ffff01;
+	background: #ffc600;
 	color: #cc0f09
 }
 
@@ -10853,7 +10853,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	font-weight: 400;
 	line-height: 52px;
 	display: inline-block;
-	color: #ffff01
+	color: #ffc600
 }
 
 #edubin-slider .carousel-caption .edubin-slider-content {
@@ -10867,7 +10867,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	padding: 12px 32px;
 	margin: 7px;
 	border-radius: 3px;
-	background: #ffff01;
+	background: #ffc600;
 	display: block;
 	-webkit-transition: .5s;
 	-moz-transition: .5s;
@@ -10876,8 +10876,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 #edubin-slider .carousel-caption .edubin-slider-btn .rep-btn.left-btn {
-	background: #ffff01;
-	border: 2px solid #ffff01;
+	background: #ffc600;
+	border: 2px solid #ffc600;
 	color: #cc0f09;
 	font-weight: 600;
 	-webkit-transition: .5s;
@@ -10897,7 +10897,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 #edubin-slider .carousel-caption .edubin-slider-btn .rep-btn.right-btn {
-	border: 2px solid #ffff01;
+	border: 2px solid #ffc600;
 	color: #cc0f09;
 	font-weight: 600;
 	-webkit-transition: .5s;
@@ -10935,8 +10935,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 #edubin-slider .edubin-slider-nav-style1 .carousel-control-prev-icon,
 #edubin-slider .edubin-slider-nav-style1 .carousel-control-next-icon {
 	background: 0 0;
-	border: 2px solid #ffff01;
-	color: #ffff01;
+	border: 2px solid #ffc600;
+	color: #ffc600;
 	height: 58px;
 	width: 58px;
 	display: flex;
@@ -10952,7 +10952,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 
 #edubin-slider .edubin-slider-nav-style1 .carousel-control-prev-icon:hover,
 #edubin-slider .edubin-slider-nav-style1 .carousel-control-next-icon:hover {
-	background: #ffff01;
+	background: #ffc600;
 	opacity: 1;
 	color: #fff;
 	-webkit-transition: .5s;
@@ -10975,8 +10975,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 #edubin-slider .edubin-slider-nav-style2 .carousel-control-prev-icon,
 #edubin-slider .edubin-slider-nav-style2 .carousel-control-next-icon {
 	background: 0 0;
-	border: 2px solid #ffff01;
-	color: #ffff01;
+	border: 2px solid #ffc600;
+	color: #ffc600;
 	height: 45px;
 	width: 45px;
 	display: flex;
@@ -10991,7 +10991,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 
 #edubin-slider .edubin-slider-nav-style2 .carousel-control-prev-icon:hover,
 #edubin-slider .edubin-slider-nav-style2 .carousel-control-next-icon:hover {
-	background: #ffff01;
+	background: #ffc600;
 	opacity: 1;
 	color: #fff;
 	-webkit-transition: .5s;
@@ -11024,8 +11024,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 
 #edubin-slider .edubin-slider-nav-style3 .carousel-control-prev-icon,
 #edubin-slider .edubin-slider-nav-style3 .carousel-control-next-icon {
-	background: #ffff01;
-	border: 3px solid #ffff01;
+	background: #ffc600;
+	border: 3px solid #ffc600;
 	color: #fff;
 	height: 45px;
 	width: 45px;
@@ -11078,8 +11078,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 
 #edubin-slider .edubin-slider-nav-style4 .carousel-control-prev-icon,
 #edubin-slider .edubin-slider-nav-style4 .carousel-control-next-icon {
-	background: #ffff01;
-	border: 3px solid #ffff01;
+	background: #ffc600;
+	border: 3px solid #ffc600;
 	color: #fff;
 	height: 52px;
 	width: 62px;
@@ -11128,8 +11128,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 #edubin-slider .edubin-slider-nav-style5 a.edubin-nav i:hover {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .3s linear;
 	transition: all .3s linear
@@ -11164,7 +11164,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 #edubin-slider .carousel-indicators li.active {
-	background: #ffff01
+	background: #ffc600
 }
 
 #edubin-slider .carousel-item img.edubin-slider-image {
@@ -11349,7 +11349,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-event ul li .edubin-single-event span i {
-	color: #ffff01;
+	color: #ffc600;
 	margin-right: 3px
 }
 
@@ -11368,7 +11368,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-event ul li .edubin-single-event a:hover h4 {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-event-addon {
@@ -11390,7 +11390,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-event-addon .event-meta-wrap>span i {
-	color: #ffff01;
+	color: #ffc600;
 	margin-right: 4px
 }
 
@@ -11428,7 +11428,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	width: 60px;
 	height: 60px;
 	border-radius: 50%;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: flex;
 	align-items: center;
@@ -11442,7 +11442,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-event-addon a:hover h4 {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear
 }
@@ -11494,7 +11494,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	width: 60px;
 	height: 60px;
 	border-radius: 50%;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: flex;
 	align-items: center;
@@ -11505,7 +11505,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	font-size: 14px;
 	color: #cc0f09;
 	font-weight: 600;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: block;
 	padding: 8px 15px;
@@ -11522,7 +11522,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	font-size: 14px;
 	color: #cc0f09;
 	font-weight: 600;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: block;
 	padding: 5px 15px;
@@ -11567,13 +11567,13 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 
 .edubin-course-cat>i {
 	font-size: 14px;
-	color: #ffff01;
+	color: #ffc600;
 	padding-right: 1px
 }
 
 .edubin-single-course-1 .course-content ul li>i {
 	font-size: 14px;
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-course-rate {
@@ -11606,7 +11606,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-course-1 .course-content .course-title a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-1 .course-bottom {
@@ -11645,7 +11645,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-course-1 .course-bottom .name a:hover h6 {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-1 .course-bottom .admin {
@@ -11682,7 +11682,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-course-1 .course-bottom .admin ul li i {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-1 .course-bottom .admin ul li a {
@@ -11693,7 +11693,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-course-1 .course-bottom .admin ul li a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-1 .course-bottom .admin ul li a span {
@@ -11744,7 +11744,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	top: 0;
 	left: 0;
 	position: absolute;
-	color: #ffff01;
+	color: #ffc600;
 	letter-spacing: 4px
 }
 
@@ -11758,7 +11758,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-course-1 .star-rating:before {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-1 .star-rating span:before {
@@ -11812,8 +11812,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-lp-courses-addons.edubin-nav-button-1 button.slick-arrow:hover {
-	border-color: #ffff01;
-	background-color: #ffff01
+	border-color: #ffc600;
+	background-color: #ffc600
 }
 
 .edubin-lp-courses-addons.edubin-nav-button-1 .edubin-carousel-activation button.edubin-carosul-next {
@@ -11899,7 +11899,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	width: 60px;
 	height: 60px;
 	border-radius: 100px;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: flex;
 	align-items: center;
@@ -11970,7 +11970,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-course-2>.thum .course-teacher .name h6:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-2>.thum .course-teacher .review {
@@ -11983,7 +11983,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 .edubin-single-course-2>.thum .course-teacher .review ul li {
 	display: inline-block;
 	font-size: 12px;
-	color: #ffff01
+	color: #ffc600
 }
 
 @media (min-width:576px) and (max-width:767.98px) {
@@ -12012,7 +12012,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 }
 
 .edubin-single-course-2 .content .course-title:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-2 .edubin-course-rate .star-rating {
@@ -12049,7 +12049,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 	top: 0;
 	left: 0;
 	position: absolute;
-	color: #ffff01;
+	color: #ffc600;
 	letter-spacing: 4px
 }
 
@@ -12070,7 +12070,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-single-course-2 .star-rating:before {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-single-course-2 .star-rating span:before {
@@ -12167,7 +12167,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-single-teacher .teacher-content a:hover .teacher-name {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .3s ease;
 	-moz-transition: all .3s ease;
 	-ms-transition: all .3s ease;
@@ -12201,7 +12201,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-single-teacher .techer-social a.social-link:hover {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .3s ease;
 	-moz-transition: all .3s ease;
 	-ms-transition: all .3s ease;
@@ -12256,7 +12256,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 	height: 45px;
 	line-height: 45px;
 	text-align: center;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	border-radius: 50%;
 	color: #cc0f09;
 	font-size: 18px
@@ -12349,7 +12349,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-testi-1 .slick-dots li.slick-active button {
-	background: #ffff01
+	background: #ffc600
 }
 
 .edubin-testi-1 .slick-dots li button:before {
@@ -12484,7 +12484,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-testi-2 .slick-dots li.slick-active button {
-	background: #ffff01
+	background: #ffc600
 }
 
 .edubin-testi-2 .slick-dots li button:before {
@@ -12558,7 +12558,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-testi-3 .slick-dots li.slick-active button {
-	background: #ffff01
+	background: #ffc600
 }
 
 .edubin-testi-3 .slick-dots li button:before {
@@ -12794,7 +12794,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 	position: absolute;
 	left: 40px;
 	bottom: 50px;
-	background: #ffff01;
+	background: #ffc600;
 	border-radius: 3px;
 	display: flex;
 	align-items: center;
@@ -12826,7 +12826,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 
 .edubin-latest-news .edubin-news-meta ul li i {
 	padding-right: 5px;
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-latest-news .edubin-news-meta ul li+li {
@@ -12866,7 +12866,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-latest-news .single-news .news-cont ul li a i {
-	color: #ffff01;
+	color: #ffc600;
 	margin-right: 6px;
 	font-size: 14px
 }
@@ -12877,7 +12877,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-latest-news .single-news .news-cont ul li a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .3s ease 0s;
 	-o-transition: all .3s ease 0s;
 	transition: all .3s ease 0s
@@ -12900,7 +12900,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-latest-news .single-news .news-cont a:hover .news-title {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .3s ease 0s;
 	-o-transition: all .3s ease 0s;
 	transition: all .3s ease 0s
@@ -13033,7 +13033,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-latest-news.layout-1 .single-news .news-cont ul li a i {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-latest-news.layout-1 .single-news .news-cont ul li a {
@@ -13048,7 +13048,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 
 .edubin-latest-news.layout-1 .single-news .news-cont ul li i {
 	margin-right: 8px;
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-latest-news.layout-5 .single-news {
@@ -13117,7 +13117,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 }
 
 .edubin-latest-news.layout-5 .single-news .news-cont ul li a i {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-latest-news.layout-5 .single-news .news-cont ul li a {
@@ -13132,7 +13132,7 @@ div>div>div>div.thum>div.course-teacher>div.edubin-course-rate>span {
 
 .edubin-latest-news.layout-5 .single-news .news-cont ul li i {
 	margin-right: 8px;
-	color: #ffff01
+	color: #ffc600
 }
 
 .woocommerce.woocommerce-addons-wrapper {
@@ -13217,7 +13217,7 @@ span.edubin-hide-addtocart-text {
 }
 
 .edubin-course-category .single-items .items-cont .course-cat:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-course-category .single-items .items-cont .total-course {
@@ -13353,7 +13353,7 @@ span.edubin-hide-addtocart-text {
 }
 
 .edubin-wpforms-wrapper .wpforms-container .wpforms-head-container .wpforms-title {
-	color: #ffff01;
+	color: #ffc600;
 	font-size: 36px;
 	margin-bottom: 0
 }
@@ -13371,10 +13371,10 @@ span.edubin-hide-addtocart-text {
 
 .edubin-wpforms-wrapper .wpforms-form .wpforms-submit-container input[type=submit],
 .edubin-wpforms-wrapper .wpforms-form .wpforms-submit-container button[type=submit] {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	width: 100%;
 	padding: 15px 0;
-	border: 1px solid #ffff01;
+	border: 1px solid #ffc600;
 	font-size: 15px;
 	line-height: 17px!important;
 	font-family: 'Montserrat', sans-serif;
@@ -13387,7 +13387,7 @@ span.edubin-hide-addtocart-text {
 
 .edubin-wpforms-wrapper .wpforms-form .wpforms-submit-container input[type=submit]:hover,
 .edubin-wpforms-wrapper .wpforms-form .wpforms-submit-container button[type=submit]:hover {
-	color: #ffff01;
+	color: #ffc600;
 	border-color: #cc0f09;
 	background-color: #cc0f09;
 	-webkit-transition: .4s ease-in-out;
@@ -13461,7 +13461,7 @@ span.edubin-hide-addtocart-text {
 }
 
 .instructor-1 .instructor-1-single .cont a:hover h5 {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear
 }
@@ -13483,7 +13483,7 @@ span.edubin-hide-addtocart-text {
 
 .instructor-1 .instructor-1-single .cont span i {
 	margin-right: 5px;
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-courses-searching {
@@ -13706,7 +13706,7 @@ body.logged-in .YouTubePopUp-Wrap {
 	line-height: 120px;
 	text-align: center;
 	font-size: 24px;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09;
 	border-radius: 50%
 }
@@ -14281,7 +14281,7 @@ body.logged-in .YouTubePopUp-Wrap {
 	padding: 12px 28px;
 	margin: 7px;
 	border-radius: 3px;
-	background: #ffff01;
+	background: #ffc600;
 	display: block;
 	-webkit-transition: .5s;
 	-moz-transition: .5s;
@@ -14290,8 +14290,8 @@ body.logged-in .YouTubePopUp-Wrap {
 }
 
 .edubin-slider .edubin-slider-btn .rep-btn.left-btn {
-	background: #ffff01;
-	border: 2px solid #ffff01;
+	background: #ffc600;
+	border: 2px solid #ffc600;
 	color: #cc0f09;
 	font-weight: 600;
 	-webkit-transition: .5s;
@@ -14427,9 +14427,9 @@ body.logged-in .YouTubePopUp-Wrap {
 
 .edubin-slider .owl-nav .owl-prev:hover,
 .edubin-slider .owl-nav .owl-next:hover {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #192d66;
-	border-color: #ffff01
+	border-color: #ffc600
 }
 
 @media (max-width:575.98px) {
@@ -30590,7 +30590,7 @@ blockquote {
 }
 
 .entry-content em a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .has-text-align-center {
@@ -48991,7 +48991,7 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .tutor-sidebar-filter .single-filter label:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-sidebar-filter .single-filter label input {
@@ -49015,13 +49015,13 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .tutor-sidebar-filter .single-filter label input:checked+.filter-checkbox {
-	border-color: #ffff01;
-	background: #ffff01;
+	border-color: #ffc600;
+	background: #ffc600;
 	position: relative
 }
 
 .tutor-sidebar-filter .single-filter label:hover input+.filter-checkbox {
-	border-color: #ffff01
+	border-color: #ffc600
 }
 
 .tutor-sidebar-filter .single-filter label input:checked+.filter-checkbox:after {
@@ -49063,7 +49063,7 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .single-filter.filter-submit button {
-	color: #ffff01;
+	color: #ffc600;
 	background: 0 0;
 	border: none
 }
@@ -49131,7 +49131,7 @@ Copyright (c) 2015 Daniel Eden
 .tutor-course-col .tutor-course .tutor-course-loop-level {
 	font-size: 12px;
 	font-weight: 500;
-	background: #ffff01
+	background: #ffc600
 }
 
 .tutor-course-col .tutor-course-loop-header-meta {
@@ -49173,7 +49173,7 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .tutor-course-col .tutor-course-body h3 a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-course-col .tutor-course .tutor-loop-rating-wrap {
@@ -49358,8 +49358,8 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .edubin-tutor-courses-addons.edubin-nav-button-1 button.slick-arrow:hover {
-	border-color: #ffff01;
-	background-color: #ffff01
+	border-color: #ffc600;
+	background-color: #ffc600
 }
 
 .edubin-tutor-courses-addons.edubin-nav-button-1 .edubin-carousel-activation button.edubin-carosul-next {
@@ -49462,7 +49462,7 @@ h4.tutor-segment-title {
 }
 
 .tutor-course-lesson h5 a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-course-lesson h5 .tutor-lesson-duration {
@@ -49568,8 +49568,8 @@ a.tutor-btn:hover,
 	-moz-transition: all .3s ease;
 	-o-transition: all .3s ease;
 	transition: all .3s ease;
-	border-color: #ffff01;
-	background: #ffff01;
+	border-color: #ffc600;
+	background: #ffc600;
 	color: #cc0f09
 }
 
@@ -49617,8 +49617,8 @@ a.tutor-btn:hover,
 	-moz-transition: all .3s ease;
 	-o-transition: all .3s ease;
 	transition: all .3s ease;
-	border-color: #ffff01;
-	background: #ffff01;
+	border-color: #ffc600;
+	background: #ffc600;
 	color: #cc0f09
 }
 
@@ -49700,8 +49700,8 @@ a.tutor-btn:hover,
 }
 
 .tutor-course-enrolled-review-wrap .write-course-review-link-btn:hover {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -49712,8 +49712,8 @@ a.tutor-btn:hover,
 }
 
 #tutor-lesson-sidebar-qa-tab-content .tutor-add-question-wrap button.tutor_ask_question_btn:hover {
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -49723,8 +49723,8 @@ a.tutor-btn:hover,
 }
 
 .tutor-button.tutor-danger:hover {
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	-webkit-filter: inherit;
 	filter: inherit;
 	color: #cc0f09
@@ -49748,8 +49748,8 @@ a.tutor-btn:hover,
 
 .tutor-course-tags a:hover {
 	color: #cc0f09;
-	border-color: #ffff01;
-	background: #ffff01;
+	border-color: #ffc600;
+	background: #ffc600;
 	transition: all .5s ease
 }
 
@@ -49765,7 +49765,7 @@ a.tutor-btn:hover,
 .tutor-single-course-segment .course-benefits-title:before {
 	position: absolute;
 	width: 42px;
-	background: #ffff01;
+	background: #ffc600;
 	content: "";
 	height: 3px;
 	bottom: -15px
@@ -49783,7 +49783,7 @@ a.tutor-btn:hover,
 .tutor-single-course-sidebar .tutor-single-course-segment .tutor-segment-title:before {
 	position: absolute;
 	width: 42px;
-	background: #ffff01;
+	background: #ffc600;
 	content: "";
 	height: 3px;
 	bottom: -15px
@@ -49877,7 +49877,7 @@ a.tutor-btn:hover,
 }
 
 .tutor-single-course-meta ul li a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-single-course-meta ul li span {
@@ -49894,8 +49894,8 @@ a.tutor-btn:hover,
 
 .tutor-single-page-top-bar .tutor-single-lesson-segment button.course-complete-button:hover {
 	color: #cc0f09;
-	background: #ffff01;
-	border-color: #ffff01
+	background: #ffc600;
+	border-color: #ffc600
 }
 
 .tutor-tabs-btn-group a i {
@@ -50118,8 +50118,8 @@ ul.page-numbers li {
 }
 
 .tutor-pagination-wrap span.page-numbers.current {
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -50138,8 +50138,8 @@ ul.page-numbers li {
 
 .tutor-pagination-wrap a:hover,
 .tutor-pagination a:hover {
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -50171,8 +50171,8 @@ ul.page-numbers li {
 }
 
 .tutor-login-form-wrap input[type=submit]:hover {
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -50217,8 +50217,8 @@ ul.page-numbers li {
 }
 
 .tutor-form-group.tutor-reg-form-btn-wrap .tutor-button:hover {
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .3s ease;
 	transition: all .3s ease
@@ -50282,7 +50282,7 @@ p.login-remember label {
 }
 
 .tutor-dashboard-permalinks a:hover:before {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-dashboard-permalinks a:before {
@@ -50315,8 +50315,8 @@ a.tutor-button.bordered-button:hover,
 .tutor-button.bordered-button:hover,
 a.tutor-btn.bordered-btn:hover,
 .tutor-btn.bordered-btn:hover {
-	border-color: #ffff01;
-	background-color: #ffff01 !important;
+	border-color: #ffc600;
+	background-color: #ffc600 !important;
 	color: #cc0f09 !important
 }
 
@@ -50334,8 +50334,8 @@ a.tutor-btn.bordered-btn:hover,
 
 .tutor-dashboard-inline-links ul li a:hover,
 .tutor-dashboard-inline-links ul li.active a {
-	color: #ffff01;
-	border-bottom-color: #ffff01
+	color: #ffc600;
+	border-bottom-color: #ffc600
 }
 
 .tutor-dashboard-inline-links ul li a {
@@ -50349,7 +50349,7 @@ a.tutor-btn.bordered-btn:hover,
 }
 
 .tutor-mycourse-content h3 a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-dashboard-review-title a {
@@ -50365,7 +50365,7 @@ a.tutor-btn.bordered-btn:hover,
 
 .tutor-mycourse-edit i,
 .tutor-mycourse-delete i {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-modal-button-group button.tutor-danger {
@@ -50377,14 +50377,14 @@ a.tutor-btn.bordered-btn:hover,
 }
 
 .tutor-modal-button-group button.tutor-danger:hover {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
 .tutor-modal-button-group button:hover {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -50394,7 +50394,7 @@ button.tm-close.tutor-icon-line-cross:hover {
 
 .tutor-mycourse-edit:hover,
 .tutor-mycourse-delete:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-dashboard-item-group>h4 {
@@ -50424,7 +50424,7 @@ button.tutor-profile-photo-upload-btn {
 
 a.tutor-profile-photo-upload-btn:hover,
 button.tutor-profile-photo-upload-btn:hover {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -50509,7 +50509,7 @@ button.tutor-profile-photo-upload-btn:hover {
 }
 
 .tutor-dashboard-social-icons a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
 }
@@ -50603,8 +50603,8 @@ button.tutor-profile-photo-upload-btn:hover {
 
 .quiz-modal-btn-cancel,
 .quiz-modal-btn-back {
-	border-color: #ffff01;
-	background-color: #ffff01;
+	border-color: #ffc600;
+	background-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -50910,11 +50910,11 @@ button.tutor-profile-photo-upload-btn:hover {
 }
 
 .tutor-price-preview-box .price {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-custom-list-style li:before {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-wrap {
@@ -50936,7 +50936,7 @@ button.tutor-profile-photo-upload-btn:hover {
 }
 
 .tutor-single-course-meta ul li.tutor-social-share button:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-single-course-meta.tutor-lead-meta ul li a {
@@ -50944,7 +50944,7 @@ button.tutor-profile-photo-upload-btn:hover {
 }
 
 .tutor-single-course-meta.tutor-lead-meta ul li a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-single-course-meta.tutor-lead-meta ul li span {
@@ -50965,8 +50965,8 @@ a.tutor-button:hover,
 .tutor-button:hover,
 a.tutor-btn:hover,
 .tutor-btn:hover {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -50977,25 +50977,25 @@ a.tutor-btn:hover,
 }
 
 .tutor-lead-info-btn-group .tutor-course-complete-form-wrap button:hover {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
 .tutor-lead-info-btn-group .tutor-button.tutor-success {
-	border: 2px solid #ffff01;
-	color: #ffff01
+	border: 2px solid #ffc600;
+	color: #ffc600
 }
 
 .tutor-lead-info-btn-group .tutor-button.tutor-success:hover {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
 #tutor-ask-question-form .tutor-form-group .tutor-button.tutor-success {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -51006,8 +51006,8 @@ a.tutor-btn:hover,
 }
 
 .tutor-button.tutor-success {
-	background: #ffff01;
-	border-color: #ffff01;
+	background: #ffc600;
+	border-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -51022,7 +51022,7 @@ a.tutor-btn:hover,
 }
 
 .tutor-course-loop-title h2 a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-course-loop-meta {
@@ -51034,7 +51034,7 @@ a.tutor-btn:hover,
 }
 
 .tutor-course-loop-price>.price .tutor-loop-cart-btn-wrap a:before {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-course-loop-price>.price .tutor-loop-cart-btn-wrap a {
@@ -51050,7 +51050,7 @@ a.tutor-btn:hover,
 }
 
 .tutor-loop-author>div a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-course-loop-level {
@@ -51059,7 +51059,7 @@ a.tutor-btn:hover,
 }
 
 .tutor-course-loop-price>.price .tutor-loop-cart-btn-wrap a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-tutor-col-8 .woocommerce-message a.button.wc-forward {
@@ -51068,7 +51068,7 @@ a.tutor-btn:hover,
 }
 
 .edubin-tutor-col-8 .woocommerce-message a.button.wc-forward:hover {
-	background: #ffff01;
+	background: #ffc600;
 	color: #cc0f09
 }
 
@@ -51077,13 +51077,13 @@ a.tutor-btn:hover,
 }
 
 .tutor-price-preview-box .tutor-course-purchase-box button:hover {
-	background: #ffff01;
+	background: #ffc600;
 	color: #cc0f09
 }
 
 .tutor-course-enrolled-wrap p i,
 .tutor-course-enrolled-wrap p span {
-	color: #ffff01
+	color: #ffc600
 }
 
 .tutor-topics-in-single-lesson .tutor-single-lesson-items a span {
@@ -51132,7 +51132,7 @@ a.tutor-btn:hover,
 .tribe-common a.tribe-common-c-btn:focus,
 .tribe-common a.tribe-common-c-btn:hover {
 	color: #cc0f09;
-	background: #ffff01;
+	background: #ffc600;
 	transition: all .5s ease
 }
 
@@ -51150,7 +51150,7 @@ a.tutor-btn:hover,
 .tribe-common .tribe-common-anchor-thin:active,
 .tribe-common .tribe-common-anchor-thin:focus,
 .tribe-common .tribe-common-anchor-thin:hover {
-	color: #ffff01;
+	color: #ffc600;
 	border-bottom: none
 }
 
@@ -51187,8 +51187,8 @@ a.tutor-btn:hover,
 .tribe-events .tribe-events-c-ical__link:focus,
 .tribe-events .tribe-events-c-ical__link:hover {
 	color: #cc0f09;
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	transition: all .5s ease
 }
 
@@ -51277,7 +51277,7 @@ ul.tribe-events-sub-nav a:hover {
 .tribe-events-list-widget .tribe-events-widget-link a:hover:hover,
 ul.tribe-events-sub-nav a:hover,
 ul.tribe-events-sub-nav a:hover:hover {
-	color: #ffff01;
+	color: #ffc600;
 	transition: all .5s ease
 }
 
@@ -51295,7 +51295,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 .tribe-events-button:hover,
 .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-],
 .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a {
-	background: #ffff01;
+	background: #ffc600;
 	transition: all .5s ease
 }
 
@@ -51331,7 +51331,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 }
 
 #tribe-bar-form .tribe-bar-submit input[type=submit] {
-	background: #ffff01;
+	background: #ffc600;
 	transition: all .5s ease
 }
 
@@ -51347,12 +51347,12 @@ ul.tribe-events-sub-nav a:hover:hover {
 
 #tribe-events td.tribe-events-present div[id*=tribe-events-daynum-],
 #tribe-events td.tribe-events-present div[id*=tribe-events-daynum-]>a {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09
 }
 
 .tribe-events-thismonth.tribe-events-future.tribe-events-has-events {
-	background-color: #ffff01
+	background-color: #ffc600
 }
 
 .tribe-events-calendar div[id*=tribe-events-event-] h3.tribe-events-month-event-title a {
@@ -51506,7 +51506,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 }
 
 #tribe-events-content .tribe-events-loop .type-tribe_events .edubin-event-loop-content-wrapper .edubin-event-image .tribe-events-event-cost .ticket-cost {
-	background: #ffff01;
+	background: #ffc600;
 	color: #fff;
 	border: none;
 	border-radius: 2px;
@@ -51536,7 +51536,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 }
 
 #tribe-events-content .tribe-events-loop .type-tribe_events .edubin-event-loop-content-wrapper .edubin-event-loop-content .tribe-events-list-event-title a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 #tribe-events-content .tribe-events-loop .type-tribe_events .edubin-event-loop-content-wrapper .edubin-event-loop-content .tribe-events-event-meta {
@@ -51567,8 +51567,8 @@ ul.tribe-events-sub-nav a:hover:hover {
 	position: relative;
 	z-index: 2;
 	text-align: center;
-	border: 1px solid #ffff01;
-	background: #ffff01;
+	border: 1px solid #ffc600;
+	background: #ffc600;
 	padding: 10px 24px;
 	text-transform: uppercase;
 	font-size: 14px;
@@ -51710,7 +51710,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 }
 
 .tribe-events-event-cost span {
-	border: 1px solid #ffff01;
+	border: 1px solid #ffc600;
 	position: absolute;
 	top: 200px;
 	right: 60px;
@@ -51725,7 +51725,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 	width: 55px;
 	height: 55px;
 	border-radius: 50%;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center
 }
 
@@ -51751,7 +51751,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 }
 
 .single-event-list .event-cont span i {
-	color: #ffff01;
+	color: #ffc600;
 	margin-right: 3px
 }
 
@@ -51769,7 +51769,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 }
 
 .single-event-list .event-cont a:hover h4 {
-	color: #ffff01;
+	color: #ffc600;
 	transition: all .5s ease
 }
 
@@ -51831,7 +51831,7 @@ ul.tribe-events-sub-nav a:hover:hover {
 }
 
 .single-event-list-2 .event-list-content i {
-	color: #ffff01;
+	color: #ffc600;
 	margin-right: 3px
 }
 
@@ -51899,7 +51899,7 @@ a.tribe-events-read-more {
 }
 
 .events-left span i {
-	color: #ffff01;
+	color: #ffc600;
 	margin-right: 3px
 }
 
@@ -51926,7 +51926,7 @@ a.tribe-events-read-more {
 
 .edubin-events-countdown .count-down-time .single-count .number {
 	font-size: 28px;
-	color: #ffff01;
+	color: #ffc600;
 	font-weight: 500
 }
 
@@ -51966,7 +51966,7 @@ a.tribe-events-read-more {
 
 .events-address ul li .single-address .icon i {
 	font-size: 15px;
-	color: #ffff01
+	color: #ffc600
 }
 
 .events-address ul li .single-address .cont {
@@ -52046,7 +52046,7 @@ a.tribe-events-read-more {
 
 .count-down-cont h2 {
 	font-size: 72px;
-	color: #ffff01;
+	color: #ffc600;
 	font-weight: 700;
 	padding-bottom: 37px
 }
@@ -52166,7 +52166,7 @@ label.rtec-field-label {
 }
 
 .edubin-event-register-from #rtec .rtec-register-button {
-	background: #ffff01;
+	background: #ffc600;
 	color: #cc0f09
 }
 
@@ -52211,7 +52211,7 @@ label.rtec-field-label {
 }
 
 .edubin-event-register-from #rtec span.rtec-already-registered-reveal a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .rtec-outer-wrap #rtec span.rtec-already-registered-reveal a {
@@ -52463,7 +52463,7 @@ a.tribe-events-read-more {
 }
 
 .tribe-common--breakpoint-medium.tribe-common .tribe-common-b2 i {
-	color: #ffff01;
+	color: #ffc600;
 	font-size: 15px;
 	font-weight: 500;
 	padding-right: 3px
@@ -52559,7 +52559,7 @@ a.tribe-events-read-more {
 	font-weight: 600;
 	font-family: 'Montserrat', sans-serif;
 	color: #cc0f09;
-	background: #ffff01;
+	background: #ffc600;
 	transition: all .5s ease
 }
 
@@ -52576,8 +52576,8 @@ a.tribe-events-read-more {
 
 .tribe-common--breakpoint-medium.tribe-events .tribe-events-c-ical__link:hover {
 	color: #cc0f09;
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	transition: all .5s ease
 }
 
@@ -52669,7 +52669,7 @@ a.tribe-events-read-more {
 }
 
 .tribe-events .tribe-events-calendar-month__multiday-event-bar-inner {
-	background: #ffff01
+	background: #ffc600
 }
 
 .tribe-events .tribe-events-calendar-month__day--current .tribe-events-calendar-month__day-date,
@@ -52697,7 +52697,7 @@ span.tribe-events-calendar-list__event-date-tag-daynum.tribe-common-h5.tribe-com
 	width: 74px;
 	height: 75px;
 	line-height: 75px;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: block;
 	position: absolute;
@@ -52717,7 +52717,7 @@ span.tribe-events-calendar-list__event-date-tag-daynum.tribe-common-h5.tribe-com
 	width: 74px;
 	height: 75px;
 	line-height: 75px;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: block;
 	position: absolute;
@@ -52742,7 +52742,7 @@ span.tribe-events-calendar-list__event-date-tag-daynum.tribe-common-h5.tribe-com
 	width: 74px;
 	height: 75px;
 	line-height: 75px;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	text-align: center;
 	display: block;
 	position: absolute;
@@ -52820,7 +52820,7 @@ span.tribe-events-calendar-list__event-date-tag-daynum.tribe-common-h5.tribe-com
 		padding: 0 62px
 	}
 	.tribe-common .tribe-common-b2 i {
-		color: #ffff01;
+		color: #ffc600;
 		font-size: 15px;
 		font-weight: 500;
 		padding-right: 3px
@@ -52843,8 +52843,8 @@ span.tribe-events-calendar-list__event-date-tag-daynum.tribe-common-h5.tribe-com
 .tribe-common .tribe-common-anchor-thin-alt:active,
 .tribe-common .tribe-common-anchor-thin-alt:focus,
 .tribe-common .tribe-common-anchor-thin-alt:hover {
-	color: #ffff01;
-	border-bottom: 1px solid #ffff01
+	color: #ffc600;
+	border-bottom: 1px solid #ffc600
 }
 
 .tribe-events-view {
@@ -52951,7 +52951,7 @@ div.wpforms-container-full .wpforms-form .wpforms-page-button {
 	display: inline-block;
 	margin-left: 0;
 	margin-top: 15px;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09;
 	padding: 15px 35px;
 	font-weight: 600;
@@ -52959,7 +52959,7 @@ div.wpforms-container-full .wpforms-form .wpforms-page-button {
 	line-height: 17px;
 	font-family: 'Montserrat', sans-serif;
 	border-radius: 2px;
-	border: 1px solid #ffff01;
+	border: 1px solid #ffc600;
 	text-decoration: none;
 	cursor: pointer
 }
@@ -53227,7 +53227,7 @@ p.demo_store {
 .woocommerce .woocommerce-error .button:hover,
 .woocommerce .woocommerce-info .button:hover,
 .woocommerce .woocommerce-message .button:hover {
-	background: #ffff01;
+	background: #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
@@ -53677,7 +53677,7 @@ p.demo_store {
 }
 
 .woocommerce div.product form.cart .group_table td a.add_to_cart_button:hover:before {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
 }
@@ -53764,7 +53764,7 @@ p.demo_store {
 	font-size: .857em;
 	margin-left: auto;
 	margin-right: auto;
-	color: #ffff01
+	color: #ffc600
 }
 
 .woocommerce ul.products li.product .price {
@@ -53870,7 +53870,7 @@ a.button.wc-backward {
 }
 
 a.button.wc-backward:hover {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
@@ -53900,7 +53900,7 @@ a.button.wc-backward:hover {
 	right: 0;
 	text-align: center;
 	color: #cc0f09;
-	background: #ffff01
+	background: #ffc600
 }
 
 .woocommerce a.button.added:after,
@@ -53909,7 +53909,7 @@ a.button.wc-backward:hover {
 	content: "\e017";
 	top: -1px;
 	position: relative;
-	background: #ffff01;
+	background: #ffc600;
 	display: block;
 	height: 40px;
 	width: 40px;
@@ -53923,7 +53923,7 @@ a.button.wc-backward:hover {
 	content: "\e017";
 	top: -1px;
 	position: relative;
-	background: #ffff01;
+	background: #ffc600;
 	display: block;
 	height: 40px;
 	width: 40px;
@@ -53999,7 +53999,7 @@ a.button.wc-backward:hover {
 .woocommerce input.button:disabled:hover,
 .woocommerce input.button:disabled[disabled]:hover {
 	color: inherit;
-	background-color: #ffff01
+	background-color: #ffc600
 }
 
 .woocommerce .cart .button,
@@ -54144,7 +54144,7 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce .comment-form-rating a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .woocommerce .star-rating:before {
@@ -54163,7 +54163,7 @@ a.button.wc-backward:hover {
 	left: 0;
 	position: absolute;
 	padding-top: 1.5em;
-	color: #ffff01
+	color: #ffc600
 }
 
 .woocommerce .star-rating span:before {
@@ -54859,7 +54859,7 @@ a.button.wc-backward:hover {
 	z-index: 2;
 	width: 1em;
 	height: 1em;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	border-radius: 0;
 	cursor: ew-resize;
 	outline: 0;
@@ -54874,7 +54874,7 @@ a.button.wc-backward:hover {
 	display: block;
 	border: 0;
 	border-radius: 1em;
-	background-color: #ffff01
+	background-color: #ffc600
 }
 
 .woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
@@ -55011,7 +55011,7 @@ a.button.wc-backward:hover {
 }
 
 .wc-proceed-to-checkout:hover {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
 }
@@ -55489,7 +55489,7 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce h2.woocommerce-loop-product__title:hover {
-	color: #ffff01;
+	color: #ffc600;
 	transition: all .5s ease;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
@@ -55608,7 +55608,7 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce .product_meta a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	transition: all .5s ease
 }
 
@@ -55757,12 +55757,12 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce a.add_to_cart_button {
-	border: 1px solid #ffff01;
+	border: 1px solid #ffc600;
 	height: 40px;
 	width: 40px;
 	display: inline-block;
 	line-height: 40px;
-	color: #ffff01;
+	color: #ffc600;
 	background: 0 0;
 	margin-right: 8px;
 	position: relative;
@@ -55772,7 +55772,7 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce a.add_to_cart_button:hover {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .5s ease 0s;
 	transition: all .5s ease 0s
@@ -55783,12 +55783,12 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce a.edubin-cart-link {
-	border: 1px solid#ffff01;
+	border: 1px solid#ffc600;
 	height: 40px;
 	width: 40px;
 	display: inline-block;
 	line-height: 40px;
-	color: #ffff01;
+	color: #ffc600;
 	background: 0 0;
 	margin-right: 5px;
 	-webkit-transition: all .5s ease 0s;
@@ -55796,20 +55796,20 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce a.edubin-cart-link:hover {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09;
-	border: 1px solid#ffff01;
+	border: 1px solid#ffc600;
 	-webkit-transition: all .5s ease 0s;
 	transition: all .5s ease 0s
 }
 
 .woocommerce a.add_to_wishlist.button.alt {
-	border: 1px solid #ffff01;
+	border: 1px solid #ffc600;
 	height: 40px;
 	width: 40px;
 	display: inline-block;
 	line-height: 40px;
-	color: #ffff01;
+	color: #ffc600;
 	background: 0 0;
 	border-radius: 0;
 	text-align: center;
@@ -55817,8 +55817,8 @@ a.button.wc-backward:hover {
 }
 
 .woocommerce a.add_to_wishlist.button.alt:hover {
-	background-color: #ffff01;
-	border: 1px solid #ffff01;
+	background-color: #ffc600;
+	border: 1px solid #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .5s ease 0s;
 	transition: all .5s ease 0s
@@ -55897,13 +55897,13 @@ li.product>a.add_to_cart_button {
 }
 
 .woocommerce ul.products li.product:hover .yith-wcwl-wishlistexistsbrowse>a {
-	color: #ffff01;
+	color: #ffc600;
 	clear: both;
 	display: block
 }
 
 .woocommerce ul.products li.product:hover .yith-wcwl-wishlistaddedbrowse>a {
-	color: #ffff01;
+	color: #ffc600;
 	clear: both transition:all .5s ease;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
@@ -56025,7 +56025,7 @@ a.wcppec-checkout-buttons__button:hover {
 
 .woocommerce #respond input#submit:hover,
 .woocommerce input.button:hover {
-	border-color: #ffff01 !important;
+	border-color: #ffc600 !important;
 	border: 0 !important;
 	transition: all .5s ease;
 	-webkit-transition: all .5s ease;
@@ -56035,11 +56035,11 @@ a.wcppec-checkout-buttons__button:hover {
 }
 
 .woocommerce .edubin-cart-button-list>a.button {
-	border: 1px solid #ffff01 !important
+	border: 1px solid #ffc600 !important
 }
 
 .woocommerce .edubin-cart-button-list>a.button:hover {
-	border: 1px solid #ffff01 !important
+	border: 1px solid #ffc600 !important
 }
 
 a.checkout-button.button.alt.wc-forward {
@@ -56305,7 +56305,7 @@ textarea {
 }
 
 :root {
-	--edubin-primary-color: #ffff01;
+	--edubin-primary-color: #ffc600;
 	--edubin-secondary-color: #cc0f09;
 	--edubin-heading-color: #353535;
 	--edubin-content-color: #505050;
@@ -56314,8 +56314,8 @@ textarea {
 	--edubin-btn-bg-color: #cc0f09;
 	--edubin-btn-border-color: #cc0f09;
 	--edubin-btn-hover-color: #cc0f09;
-	--edubin-btn-bg-hover-color: #ffff01;
-	--edubin-btn-border-hover-color: #ffff01
+	--edubin-btn-bg-hover-color: #ffc600;
+	--edubin-btn-border-hover-color: #ffc600
 }
 
 .flaticon-back:before,
@@ -56587,7 +56587,7 @@ input[type=reset],
 input[type=button].secondary,
 input[type=reset].secondary,
 input[type=submit].secondary {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #333;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
@@ -56599,7 +56599,7 @@ input[type=button]:hover,
 input[type=button]:focus,
 input[type=submit]:hover,
 input[type=submit]:focus {
-	background: #ffff01;
+	background: #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
@@ -56676,7 +56676,7 @@ ul ul ul {
 
 ul.entry-meta li i {
 	padding-right: 4px;
-	color: #ffff01
+	color: #ffc600
 }
 
 ul.entry-meta li>i.far.fa-folder-open {
@@ -56786,7 +56786,7 @@ body a {
 
 body a:hover,
 body a:active {
-	color: #ffff01;
+	color: #ffc600;
 	text-decoration: none;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
@@ -56914,12 +56914,12 @@ html {
 }
 
 .header-top ul li a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	transition: all .5s ease
 }
 
 .header-top ul li a:hover i {
-	color: #ffff01;
+	color: #ffc600;
 	transition: all .5s ease
 }
 
@@ -57051,7 +57051,7 @@ html {
 }
 
 .header-top .header-right .login-register ul li a {
-	color: #ffff01;
+	color: #ffc600;
 	text-decoration: none;
 	font-size: 14px;
 	list-style: none;
@@ -57065,7 +57065,7 @@ html {
 }
 
 .header-top .header-right .login-register ul li a {
-	color: #ffff01;
+	color: #ffc600;
 	text-transform: initial
 }
 
@@ -57099,14 +57099,14 @@ html {
 }
 
 .header-top.header-top-2 ul li a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .header-top.header-top-2 .header-right .login-register ul li a {
 	color: #cc0f09;
 	text-transform: initial;
 	padding: 6px 18px;
-	background: #ffff01;
+	background: #ffc600;
 	border-radius: 3px;
 	display: block;
 	-webkit-transition: all .5s ease;
@@ -57181,7 +57181,7 @@ html {
 .header-right-icon ul li a span {
 	font-size: 12px;
 	color: #cc0f09;
-	background-color: #ffff01;
+	background-color: #ffc600;
 	border-radius: 100px;
 	padding: 0 4px;
 	position: absolute;
@@ -57312,7 +57312,7 @@ html {
 
 .site-title,
 .site-title a {
-	color: #ffff01;
+	color: #ffc600;
 	opacity: 1
 }
 
@@ -57634,8 +57634,8 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .page-numbers.current {
 	color: #cc0f09;
 	display: inline-block;
-	background: #ffff01;
-	border-color: #ffff01
+	background: #ffc600;
+	border-color: #ffc600
 }
 
 .page-numbers.current .screen-reader-text {
@@ -57844,7 +57844,7 @@ a.post-edit-link {
 	-moz-transition: all .5s ease;
 	-o-transition: all .5s ease;
 	transition: all .5s ease;
-	color: #ffff01
+	color: #ffc600
 }
 
 .social-navigation li {
@@ -57900,7 +57900,7 @@ a.post-edit-link {
 }
 
 .site-footer .site-info a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
 	-o-transition: all .5s ease;
@@ -58811,7 +58811,7 @@ nav.navigation.pagination {
 }
 
 .navigation .nav-links .nav-title:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .page-links a,
@@ -58840,8 +58840,8 @@ nav.navigation.pagination {
 .page-links a:hover,
 .nav-links a:hover {
 	color: #cc0f09;
-	background: #ffff01;
-	border: 2px solid #ffff01;
+	background: #ffc600;
+	border: 2px solid #ffc600;
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear
 }
@@ -58858,12 +58858,12 @@ nav.navigation.pagination {
 	width: 40px;
 	height: 40px;
 	line-height: 33px;
-	border: 2px solid #ffff01;
+	border: 2px solid #ffc600;
 	border-radius: 3px;
 	text-align: center;
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
-	background: #ffff01;
+	background: #ffc600;
 	display: inline-block
 }
 
@@ -58916,7 +58916,7 @@ nav.navigation.pagination {
 .post .entry-title a:hover,
 .post .entry-title a:focus,
 .post .entry-title a:active {
-	color: #ffff01
+	color: #ffc600
 }
 
 .post .entry-meta li {
@@ -59083,7 +59083,7 @@ body .container {
 		color: #2b2a35
 	}
 	.mobile-menu>ul li a:hover {
-		color: #ffff01
+		color: #ffc600
 	}
 	.zmm-dropdown-toggle {
 		position: absolute;
@@ -59164,7 +59164,7 @@ body .container {
 }
 
 .error-404 .error-404-heading span {
-	color: #ffff01
+	color: #ffc600
 }
 
 .error-404 .error-404-img {
@@ -59184,7 +59184,7 @@ body .container {
 }
 
 .error-404 a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	text-decoration: underline;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
@@ -59195,7 +59195,7 @@ body .container {
 }
 
 .back-to-top {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	position: fixed;
 	bottom: 40px;
 	right: 40px;
@@ -59250,7 +59250,7 @@ body .container {
 }
 
 .preloader .color-1 {
-	background-color: #ffff01 !important
+	background-color: #ffc600 !important
 }
 
 .preloader .rubix-cube {
@@ -59789,7 +59789,7 @@ body .container {
 }
 
 .main-navigation ul ul a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	padding-left: 35px;
 	border-color: transparent;
 	-webkit-transition: all .5s ease;
@@ -59806,7 +59806,7 @@ body .container {
 	transform: translateY(-50%);
 	height: 2px;
 	width: 10px;
-	background: #ffff01;
+	background: #ffc600;
 	z-index: 9;
 	border-radius: unset;
 	opacity: 0;
@@ -59845,15 +59845,15 @@ body .container {
 }
 
 .main-navigation li.current-menu-item>a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .main-navigation li.current-menu-ancestor>a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .main-navigation li ul .current-menu-item a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .site-header .site-navigation-fixed .menu-scroll-down {
@@ -59912,7 +59912,7 @@ body .container {
 }
 
 .header-menu.header-bg {
-	background-color: #ffff01
+	background-color: #ffc600
 }
 
 .header-menu.header-bg .mobile-menu-icon i {
@@ -59949,7 +59949,7 @@ body .container {
 }
 
 .header-menu.header-bg .main-navigation li ul .current-menu-item a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .header-menu.header-bg .main-navigation ul ul a:hover {
@@ -59957,7 +59957,7 @@ body .container {
 }
 
 .home .header-menu.home-header-bg {
-	background-color: #ffff01
+	background-color: #ffc600
 }
 
 .home .header-menu.home-header-bg .mobile-menu-icon i {
@@ -59994,7 +59994,7 @@ body .container {
 }
 
 .home .header-menu.home-header-bg .main-navigation li ul .current-menu-item a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .home .header-menu.home-header-bg .main-navigation ul ul a:hover {
@@ -60076,7 +60076,7 @@ body .container {
 .menu-effect-2 .main-navigation ul ul {
 	background: #fff;
 	box-shadow: 0 6px 12px rgba(0, 0, 0, .07);
-	border-top: 3px solid #ffff01
+	border-top: 3px solid #ffc600
 }
 
 .menu-effect-2 .main-navigation ul ul a {
@@ -60084,15 +60084,15 @@ body .container {
 }
 
 .menu-effect-2 .main-navigation li.current-menu-item>a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .menu-effect-2 .main-navigation li.current-menu-ancestor>a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .menu-effect-2 .main-navigation li ul .current-menu-item a {
-	color: #ffff01
+	color: #ffc600
 }
 
 .menu-effect-2 .main-navigation ul ul a:hover {
@@ -60142,8 +60142,8 @@ body .container {
 
 .edubin-main-btn:hover {
 	color: #cc0f09;
-	border-color: #ffff01;
-	background-color: #ffff01;
+	border-color: #ffc600;
+	background-color: #ffc600;
 	text-decoration: none;
 	-webkit-transition: .3s;
 	-moz-transition: .3s;
@@ -60161,7 +60161,7 @@ body .container {
 }
 
 .edubin-main-btn-2 {
-	color: #ffff01;
+	color: #ffc600;
 	border-color: #cc0f09;
 	background-color: #cc0f09;
 	-webkit-transition: .3s;
@@ -60172,8 +60172,8 @@ body .container {
 
 .edubin-main-btn-2:hover {
 	color: #fff;
-	background-color: #ffff01;
-	border-color: #ffff01;
+	background-color: #ffc600;
+	border-color: #ffc600;
 	-webkit-transition: .3s;
 	-moz-transition: .3s;
 	-o-transition: .3s;
@@ -60313,7 +60313,7 @@ body .container {
 .widget .widget-title:before {
 	position: absolute;
 	width: 42px;
-	background: #ffff01;
+	background: #ffc600;
 	content: "";
 	height: 3px;
 	bottom: -15px
@@ -60340,7 +60340,7 @@ body .container {
 .edubin-related-course.ld-related-course .widget-title:before {
 	position: absolute;
 	width: 42px;
-	background: #ffff01;
+	background: #ffc600;
 	content: "";
 	height: 3px;
 	bottom: -15px
@@ -60555,7 +60555,7 @@ body .container {
 }
 
 .widget .tagcloud a:hover {
-	background: #ffff01;
+	background: #ffc600;
 	color: #cc0f09;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
@@ -60569,7 +60569,7 @@ body .container {
 .widget.widget_tag_cloud a:focus,
 .wp_widget_tag_cloud a:hover,
 .wp_widget_tag_cloud a:focus {
-	border-color: #ffff01;
+	border-color: #ffc600;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 	text-decoration: none;
@@ -60737,7 +60737,7 @@ table#wp-calendar td#today a {
 }
 
 .site-footer .widget ul li a:hover {
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease
 }
@@ -60769,7 +60769,7 @@ table#wp-calendar td#today a {
 }
 
 .site-footer .widget ul.menu li:before {
-	color: #ffff01;
+	color: #ffc600;
 	content: "\f105";
 	font-family: "Font Awesome 5 Free";
 	left: 0;
@@ -60780,7 +60780,7 @@ table#wp-calendar td#today a {
 
 .site-footer .widget.widget_nav_menu ul li a:hover {
 	margin-left: 5px;
-	color: #ffff01;
+	color: #ffc600;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
 	-o-transition: all .5s ease;
@@ -60821,7 +60821,7 @@ table#wp-calendar td#today a {
 
 .edubin-entry-footer .cat-links a:hover,
 .edubin-entry-footer .tags-links a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .edubin-entry-footer .cat-tags-links a {
@@ -60881,7 +60881,7 @@ table#wp-calendar td#today a {
 
 .edubin-entry-footer .edit-link a.post-edit-link:hover,
 .edubin-entry-footer .edit-link a.post-edit-link:focus {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -60907,13 +60907,13 @@ table#wp-calendar td#today a {
 }
 
 .site-footer .widget .edubin-social a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .site-footer .widget button,
 .site-footer .widget input[type=button],
 .site-footer .widget input[type=submit] {
-	background-color: #ffff01;
+	background-color: #ffc600;
 	color: #cc0f09
 }
 
@@ -60970,7 +60970,7 @@ table#wp-calendar td#today a {
 }
 
 .site-footer .widget ul li:before {
-	color: #ffff01;
+	color: #ffc600;
 	content: "\f133";
 	font-family: "Flaticon";
 	left: 0;
@@ -61009,7 +61009,7 @@ table#wp-calendar td#today a {
 }
 
 .site-footer .widget table#wp-calendar td a:hover {
-	color: #ffff01
+	color: #ffc600
 }
 
 .site-footer .widget #wp-calendar caption {
