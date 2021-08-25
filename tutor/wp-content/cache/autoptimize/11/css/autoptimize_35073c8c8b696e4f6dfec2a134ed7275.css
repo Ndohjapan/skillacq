@@ -56870,7 +56870,6 @@ html {
 }
 
 .is-header-sticky.sticky-active .header-top {
-	display: none;
 	transition: all .5s ease
 }
 
