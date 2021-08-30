@@ -61125,6 +61125,29 @@ table#wp-calendar td#today a {
 	display: none
 }
 
+#learn-press-profile {
+    overflow: hidden;
+    position: relative;
+    background: #fff;
+}
+
+.lp-content-area {
+    width: 1170px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.learn-press-form-login, .learn-press-form-register {
+    max-width: 600px;
+    margin-right: auto;
+    /* margin-bottom: 60px; */
+    margin-left: auto;
+    padding: 40px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 10%), 0 2px 4px -1px rgb(0 0 0 / 6%) !important;
+}
+
 .mu_register.wp-signup-container {
 	width: 600px;
 	margin: 0 auto;
@@ -73742,4 +73765,17 @@ body.rtl .wpforms-container-full .wpforms-form .wpforms-first+.wpforms-one-half 
 .header-cta:hover{
     color:white !important;
     background: var(--edubin-secondary-color) !important;
+}
+
+
+.form-fields{
+	padding: 0 !important;
+}
+
+.form-field{
+	list-style: none;
+}
+
+.login-btn{
+	width: 100%;
 }
